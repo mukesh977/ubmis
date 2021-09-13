@@ -1,0 +1,2 @@
+https://thewebtier.com/laravel/understanding-roles-permissions-laravel/
+https://www.kerneldev.com/2018/02/12/set-up-role-based-access-control-in-laravel/
